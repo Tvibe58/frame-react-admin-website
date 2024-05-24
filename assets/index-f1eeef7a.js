@@ -1,0 +1,1 @@
+import{j as t}from"./index-3e7d7600.js";import{u as r}from"./useTranslation-466eb704.js";const n=()=>{const{t:s}=r();return t.jsxs("div",{children:[s("test")," ",s("menus.关于")]})};export{n as default};
